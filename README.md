@@ -30,6 +30,9 @@ I love publishing and sharing my findings with the world! Here's a list of some 
 5. **Cluster-Refined Optimal Transport for Unsupervised Action Segmentation** – ICASSP, CCF-B, 2025
    🔗 [Link to paper](https://ieeexplore.ieee.org/abstract/document/10887693)
 
+6. *Unsupervised Temporal Action Segmentation Based on Wavelet Feature Processing* - **IJCNN, CCF-C**. 2025
+   🔗 [Accepted (to be indexed soon)]()
+
 ---
 
 ### 💼 Internship Experience
