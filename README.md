@@ -24,7 +24,7 @@ My research interests focus on **Multimodal Large Language Models**, **Multimoda
   - Open-world detection & segmentation for defect detection at Xiaomi Automobile Factory. Outperformed SAM2 with +4.6% AP50 and >30% boost on long-tail categories.
 
 - **[CVPR Workshop, 5th PVUW Challenge](https://pvuw.github.io/)** (2026.02 - 2026.03)
-  - **1st Place**, [5th MOSE Challenge](https://www.codabench.org/competitions/14016/#/results-tab) — Outperformed 2nd place by 1.75% J&F
+  - **1st Place**, [5th MOSE Challenge](https://www.codabench.org/competitions/14016/#/results-tab) — Outperformed 2nd place by 1.75% J&F_new
   - **1st Place**, [5th MeViS-Text Challenge](https://www.codabench.org/competitions/14017/#/results-tab) — Outperformed 2nd place by 7.91% J&F
 
 ## 📝 Selected Publications
