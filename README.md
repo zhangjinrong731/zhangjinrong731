@@ -27,7 +27,7 @@ My research interests focus on **Multimodal Large Language Models**, **Multimoda
   - **1st Place**, [5th MOSE Challenge](https://www.codabench.org/competitions/14016/#/results-tab) — Outperformed 2nd place by 1.75% J&F_new
   - **1st Place**, [5th MeViS-Text Challenge](https://www.codabench.org/competitions/14017/#/results-tab) — Outperformed 2nd place by 7.91% J&F
 
-## 📝 Selected Publications
+## 📝 Main Publications
 
 \* Equal contribution &ensp; # Corresponding author
 
