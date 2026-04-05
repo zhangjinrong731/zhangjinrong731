@@ -32,18 +32,23 @@ My research interests focus on **Multimodal Large Language Models**, **Multimoda
 \* Equal contribution &ensp; # Corresponding author
 
 - **[CVPR 2026]** [Breaking the Regional Perception Bottleneck of MLLMs via External Reasoning Framework]()
+
   **Jinrong Zhang**, Zhaoyang Xu, Xusheng He, Xinrui Li, Na Zheng, Jianlong Wu#
 
 - **[AAAI 2025]** [Just a Few Glances: Open-Set Visual Perception with Image Prompt Paradigm](https://ojs.aaai.org/index.php/AAAI/article/view/330)
+
   **Jinrong Zhang**, Penghui Wang, Chunxiao Liu, Wei Liu, Dian Jin, Qiong Zhang#, Erli Meng#, Zhengnan Hu
 
 - **[CVPR 2025]** [DTOS: Dynamic Time Object Sensing with Large Multimodal Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_DTOS_Dynamic_Time_Object_Sensing_with_Large_Multimodal_Model_CVPR_2025_paper.pdf)
+
   Jirui Tian\*, **Jinrong Zhang**\*, Shenglan Liu#, Luhao Xu, Zhixiong Huang, Gao Huang
 
 - **[TNNLS 2025]** [End-to-End Streaming Video Temporal Action Segmentation With Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10963907)
+
   **JinRong Zhang**, WuJun Wen, ShengLan Liu, Gao Huang, YunHeng Li, QiFeng Li, Lin Feng#
 
 - **[ICME 2025]** [Flexible Streaming Temporal Action Segmentation with Diffusion Models](https://ieeexplore.ieee.org/document/11210093)
+
   **Jinrong Zhang**, Wujun Wen, Shenglan Liu, Sifan Zhang, Yuning Ding, Lin Feng#
 
 <details>
